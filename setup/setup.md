@@ -44,6 +44,7 @@ Then install on the microSD card the downloaded P4Pi image as follows:
 a. Under _Operating System_, select _Use custom_, and point to the P4Pi image file
 
 b. Under _Storage_ select your _microSD_ card
+
 c. Select _Write_, and wait for the process to complete
 </br>
 </br>
