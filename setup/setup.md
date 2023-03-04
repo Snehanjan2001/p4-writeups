@@ -15,6 +15,7 @@ Use the following command to unzip the file:\
 </br>
 
 If the file is tar then use the command to untar
+
 `tar xf p4pi-image-<version>.tar.xz`
 </br>
 </br>
