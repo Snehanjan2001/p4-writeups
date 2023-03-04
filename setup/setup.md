@@ -8,8 +8,6 @@ The P4Pi image is downloaded from the from the official repo in github.
 </br>
 </br>
 
----
-
 ## Step 2 : Unzip the image
 
 Use the following command to unzip the file:\
@@ -20,8 +18,6 @@ If the file is tar then use the command to untar
 `tar xf p4pi-image-<version>.tar.xz`
 </br>
 </br>
-
----
 
 ## Step 3 : Use the Raspberry Pi imager
 
@@ -50,8 +46,6 @@ b. Under _Storage_ select your _microSD_ card
 c. Select _Write_, and wait for the process to complete
 </br>
 </br>
-
----
 
 ## Step 4 : Connecting and running sample program
 
